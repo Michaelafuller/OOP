@@ -1,0 +1,13 @@
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.exe
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.deps.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.genruntimeconfig.cache

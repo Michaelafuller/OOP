@@ -1,0 +1,13 @@
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.exe
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.deps.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\bin\Debug\netcoreapp3.1\ObjectConstruction.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\OOP\Practice\ObjectConstruction\obj\Debug\netcoreapp3.1\ObjectConstruction.genruntimeconfig.cache
